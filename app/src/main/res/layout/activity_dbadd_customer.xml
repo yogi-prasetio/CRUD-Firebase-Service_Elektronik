@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center_horizontal"
+    android:padding="8dp"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/et_nama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="Nama"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/et_alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:lines="3"
+        android:maxLines="3"
+        android:hint="Alamat"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/et_phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:maxLength="13"
+        android:hint="Phone"
+        android:inputType="number" />
+    <EditText
+        android:id="@+id/et_merk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="Merk"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/et_jenis"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="Jenis"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/et_warna"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:hint="Warna"
+        android:inputType="text" />
+    <EditText
+        android:id="@+id/et_rusak"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:lines="3"
+        android:maxLines="3"
+        android:hint="Kerusakan"
+        android:inputType="text" />
+    <Button
+        android:id="@+id/bt_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Submit" />
+</LinearLayout>
