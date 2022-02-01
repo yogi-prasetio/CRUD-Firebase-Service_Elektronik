@@ -18,10 +18,10 @@ Gunakan VCS Android Studio untuk menginpor codingan ini.
 </ul>
 
 <b>Screenshot:</b>
-<a href='https://postimg.cc/JGz8q12V' /></a>
-<img src='https://postimg.cc/wyj2rG8v'/>
-<img src='https://postimg.cc/jWFnsgnC'/>
-<img src='https://postimg.cc/ZvKqp6dX'/>
-<img src='https://postimg.cc/06sP7pgZ'/>
-<img src='https://postimg.cc/cKX26Ydv'/>
-<img src='https://postimg.cc/t1MkLzXN'/>
+<img src='https://i.postimg.cc/ncvLnrKz/Screenshot-2022-02-01-12-42-37-980-com-service-elektronik-sarana.jpg' />
+<img src='https://i.postimg.cc/Y91Ph5d1/Screenshot-2022-02-01-12-42-31-604-com-service-elektronik-sarana.jpg'/>
+<img src='https://i.postimg.cc/639rfF9V/Screenshot-2022-02-01-12-42-42-355-com-service-elektronik-sarana.jpg'/>
+<img src='https://i.postimg.cc/C5bfyNLM/Screenshot-2022-02-01-12-42-58-696-com-service-elektronik-sarana.jpg'/>
+<img src='https://i.postimg.cc/MGcH2D9k/Screenshot-2022-02-01-12-43-10-859-com-service-elektronik-sarana.jpg'/>
+<img src='https://i.postimg.cc/1tQQCcTr/Screenshot-2022-02-01-12-45-35-034-com-service-elektronik-sarana.jpg'/>
+<img src='https://i.postimg.cc/W32yq9CC/Screenshot-2022-02-01-12-45-41-582-com-service-elektronik-sarana.jpg'/>
