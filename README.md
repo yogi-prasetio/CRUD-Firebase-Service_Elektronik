@@ -18,7 +18,7 @@ Gunakan VCS Android Studio untuk menginpor codingan ini.
 </ul>
 
 <b>Screenshot:</b>
-<img src='https://postimg.cc/JGz8q12V' />
+<a href='https://postimg.cc/JGz8q12V' /></a>
 <img src='https://postimg.cc/wyj2rG8v'/>
 <img src='https://postimg.cc/jWFnsgnC'/>
 <img src='https://postimg.cc/ZvKqp6dX'/>
