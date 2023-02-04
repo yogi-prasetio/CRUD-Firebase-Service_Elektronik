@@ -2,8 +2,6 @@
 
 Aplikasi Android Studio Service Elektronik CRUD Firebase 
 
-Gunakan VCS Android Studio untuk menginpor codingan ini.
-
 <b>Fitur Fitur</b>
 <ul>
   <li>Splash Screen</li>
